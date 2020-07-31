@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm a junior full-stack web developer specialized in React, Redux, Node.js based at Bordeaux in France. after an intensive 5 months training I'm working for the start-up tricky.
 I'am currently working on developing my mobile development skills and I love UX design.
-Don't hesitate to reach out to me for more inforomations :
+Don't hesitate to reach out to me for more informations :
 <br />
 <br />
 
