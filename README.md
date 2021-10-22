@@ -7,7 +7,7 @@ Don't hesitate to reach out to me for more informations :
 
 * 🔖  Discover my [Curriculum Vitae](https://david-faure.fr/David_Faure_Developpeur_Full_Stack.pdf)
 * 📫  Contact me on [LinkedIn](https://www.linkedin.com/in/david-faure/)
-* 🖥  Visit my [Portfolio](https://david-faure.fr/)
+* 🖥  Visit my [Portfolio](https://davidfaure.io/)
 
 
 ## My skills 
