@@ -26,8 +26,8 @@
 
 <h2 align="left">📈 Some GitHub Stats</h2>
           
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=davidfaure&count_private=true&theme=dracula&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidfaure&langs_count=5&theme=dracula)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=davidfaure&&show_icons=true&theme=dracula&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidfaure&langs_count=5&theme=dracula&layout=compact)]()
 
 
 
