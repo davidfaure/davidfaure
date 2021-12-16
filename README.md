@@ -1,16 +1,17 @@
 <h1 align="left">Hi 👋, I'm David Faure</h1>
 <h3 align="left">A passionate full stack developer from Bordeaux 🇫🇷</h3>
 
-<p>🔭 I’m currently working on [Maze game v2](https://github.com/davidfaure/maze-game)</p>
-<p>🌱 I’m currently learning **Typescript**</p>
+- 🔭 I’m currently working on [Maze game v2](https://github.com/davidfaure/maze-game)</p>
 
-👨‍💻 All of my projects are available at [https://davidfaure.io/](https://davidfaure.io/)
+- 🌱 I’m currently learning **Typescript**</p>
 
-💬 Ask me about **React, Redu, node.js**
+- 👨‍💻 All of my projects are available at [https://davidfaure.io/](https://davidfaure.io/)
 
-📫 How to reach me **aswelldavid@gmail.com**
+- 💬 Ask me about **React, Redu, node.js**
 
-📄 Know about my experiences [https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf](https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf)
+- 📫 How to reach me **aswelldavid@gmail.com**
+
+- 📄 Know about my experiences [https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf](https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf)
 
 <h2 align="left">🌍 Connect with me:</h2>
 <p align="left">
