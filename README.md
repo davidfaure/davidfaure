@@ -2,7 +2,6 @@
 <h3 align="left">A passionate full stack developer from Bordeaux 🇫🇷</h3>
 
 - 🔭 I’m currently working on [Maze game v2](https://github.com/davidfaure/maze-game)
-
 - 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://davidfaure.io/](https://davidfaure.io/)
