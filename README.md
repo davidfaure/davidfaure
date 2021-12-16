@@ -8,7 +8,7 @@
  🔭 &nbsp;I’m currently working on [Maze game v2](https://github.com/davidfaure/maze-game).\
  🌱 &nbsp;I’m currently learning **Typescript**.\
  👨‍💻 &nbsp;All of my projects are available at [https://davidfaure.io/](https://davidfaure.io/)\
- 💬 &nbsp;Ask me about **React, Redu, node.js**.\
+ 💬 &nbsp;Ask me about **React, Redux, Node.js**.\
  📫 &nbsp;How to reach me **aswelldavid@gmail.com**.\
  📄 &nbsp;Know about my experiences [https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf](https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf)
  
