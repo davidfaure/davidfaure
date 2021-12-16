@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm David Faure</h1>
-<h3 align="center">A passionate full stack developer from Bordeaux 🇫🇷</h3>
+<h1 align="left">Hi 👋, I'm David Faure</h1>
+<h3 align="left">A passionate full stack developer from Bordeaux 🇫🇷</h3>
 
 - 🔭 I’m currently working on [Maze game v2](https://github.com/davidfaure/maze-game)
 
