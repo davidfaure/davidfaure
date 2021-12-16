@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf](https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">🌍 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/davidaswell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidaswell" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/david-faure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-faure" height="30" width="40" /></a>
