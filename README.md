@@ -1,11 +1,17 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm David Faure</b>
 <br>
 
+<h1 align="left">Maze game V2 is here :</h1>
+
+🧩 &nbsp; [Maze game v2](https://aswell-amazegame.netlify.app/)
+
+<hr />
+
 <img align="right" src="https://github.com/davidfaure/davidfaure/blob/master/memoji.png" width="200"/>
 
 <h3 align="left">A passionate full stack developer from Bordeaux 🇫🇷</h3>
 
- 🔭 &nbsp;I’m currently working on [Maze game v2](https://github.com/davidfaure/maze-game).\
+ 🔭 &nbsp;I’m currently working on improving [Maze game v2](https://github.com/davidfaure/maze-game).\
  🌱 &nbsp;I’m currently learning **Typescript**.\
  👨‍💻 &nbsp;All of my projects are available at [https://davidfaure.io/](https://davidfaure.io/)\
  💬 &nbsp;Ask me about **React, Redux, Node.js**.\
