@@ -69,6 +69,8 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidfaure&langs_count=5&theme=dracula)]()
 
+<a href="https://app.daily.dev/dfaure"><img src="https://api.daily.dev/devcards/1a693033374e4f26bd8974a8140670e9.png?r=5sw" width="400" alt="David Faure's Dev Card"/></a>
+
 
 
 
