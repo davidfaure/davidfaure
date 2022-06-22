@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm David Faure</b>
+# 👋🏼 &nbsp;<b>Hi, I'm David Faure</b>
 <br>
 
 <h1 align="left">Maze game V2 is here :</h1>
