@@ -12,8 +12,8 @@
 <h3 align="left">A passionate full stack developer from Bordeaux 🇫🇷</h3>
 
  🔭 &nbsp;I’m currently working on improving [Maze game v2](https://github.com/davidfaure/maze-game).\
- 🌱 &nbsp;I’m currently learning **Typescript**.\
- 👨‍💻 &nbsp;All of my projects are available at [https://davidfaure.io/](https://davidfaure.io/)\
+ 🌱 &nbsp;I’m currently learning **Three.js**.\
+ 👨‍💻 &nbsp;All of my projects are available at [https://davidfaure.app/](https://davidfaure.app/)\
  💬 &nbsp;Ask me about **React, Redux, Node.js**.\
  📫 &nbsp;How to reach me **aswelldavid@gmail.com**.\
  📄 &nbsp;Know about my experiences [https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf](https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf)
