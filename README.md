@@ -16,7 +16,7 @@
  👨‍💻 &nbsp;All of my projects are available on my [portfolio](http://davidfaure.eu/)\
  💬 &nbsp;Ask me about **React, Redux, Node.js**.\
  📫 &nbsp;How to reach me **aswelldavid@gmail.com**.\
- 📄 &nbsp;Know about my experiences [https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf](https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf)
+ 📄 &nbsp;Know about my experiences [here](https://www.linkedin.com/in/david-faure/)
  
 <h2>👨🏻‍💻 &nbsp;Things I code with</h2>
 <p> 
@@ -29,6 +29,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-0AC47D?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Gsap" src="https://img.shields.io/badge/Gsap-88CE02?style=flat-square&logo=greensock&logoColor=black" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-460034?style=flat-square&logo=AdobeXD&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
@@ -42,6 +43,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
+  <img alt="Webgl" src="https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
@@ -53,6 +55,7 @@
   <img alt="Socket.IO" src="https://img.shields.io/badge/-Socket.IO-010101?style=square-flat&logo=Socket.io&logoColor=white" />
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=square-flat&logo=macOS&logoColor=white" />
   <img alt="Hyper" src="https://img.shields.io/badge/-Hyper%20X-000000?style=square-flat&logo=Hyper&logoColor=white" />
+  <img alt="Threejs" src="https://img.shields.io/badge/-ThreeJS-000000?style=flat-square&logo=threedotjs&logoColor=white" />
 </p>
 
 <h2 align="left">🌍 Connect with me:</h2>
