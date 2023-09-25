@@ -13,7 +13,7 @@
 
  🔭 &nbsp;I’m currently working on improving [Maze game v2](https://github.com/davidfaure/maze-game).\
  🌱 &nbsp;I’m currently learning **Three.js**.\
- 👨‍💻 &nbsp;All of my projects are available at [https://davidfaure.app/](https://davidfaure.app/)\
+ 👨‍💻 &nbsp;All of my projects are available on my [portfolio](http://davidfaure.eu/)\
  💬 &nbsp;Ask me about **React, Redux, Node.js**.\
  📫 &nbsp;How to reach me **aswelldavid@gmail.com**.\
  📄 &nbsp;Know about my experiences [https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf](https://davidfaure.io/CV/David_Faure_Developpeur_Full_Stack.pdf)
